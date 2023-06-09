@@ -2,7 +2,7 @@
 
 ## Summary
 
-This project comprises several reusable 'building block' components supporting different functionality including a sortable table, a confirmation modal, button components with various styles, an expandable accordion, a dropdown color picker, and a basic counter. These different components are connected with a navigation menu and supporting router. We leverage [Tailwind CSS](https://tailwindcss.com/docs/installation) for styling our app - this saves time and ensures the project's primary focus is practicing React JS functional concepts with hooks.
+This project comprises several reusable 'building block' components supporting different functionality including a sortable table, a confirmation modal, button components with various styles, an expandable accordion, a dropdown color picker, and a basic counter. These different components are connected with a sidebar navigation menu and supporting router. We leverage [Tailwind CSS](https://tailwindcss.com/docs/installation) for styling our app - this saves time and ensures the project's primary focus is practicing React JS functional concepts with hooks.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
